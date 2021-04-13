@@ -239,6 +239,7 @@ header .logo {
   padding-bottom: 10px;
   min-width: 200px;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  border: 0;
   border-radius: 4px;
 
   transition-property: background-color;
@@ -261,6 +262,7 @@ header .logo {
   background-color: #f5f4fa;
 
   background: #f5f4fa;
+  border: 0;
   border-radius: 4px;
   padding-top: 6px;
   padding-bottom: 6px;
